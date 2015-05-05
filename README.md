@@ -9,7 +9,7 @@ Create a number guessing game in which the computer picks a number and you have 
 After completing this assignment, you should...
 
 * Understand what methods are and how they can be used to:
-  * Reduce code repetition.
+  * Reduce code repetition
   * Improve readers' ability to reason about code
 * Understand how ruby code resides on the file system and how it is executed
 * Be able to use puts and gets
@@ -34,7 +34,7 @@ Your goal for tonight is to create a number guessing game. Your program should p
 * After 5 incorrect guesses, the program should tell you that you lose.
 * If you guess the same number twice, the program should ask you if you're feeling all right (or something similarly sarcastic).
 * Your code should include at least two methods.
-* This game should be run from the command line by typing "ruby game.rb".
+* This game should be run from the command line by typing "ruby guessing_game.rb".
 
 
 ## Hard Mode
