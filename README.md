@@ -9,7 +9,7 @@ Create a number guessing game in which the computer picks a number and you have 
 After completing this assignment, you should...
 
 * Understand what methods are and how they can be used to:
-  * Reduce code repetition
+  * Reduce code repetition.
   * Improve readers' ability to reason about code
 * Understand how ruby code resides on the file system and how it is executed
 * Be able to use puts and gets
